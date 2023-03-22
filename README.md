@@ -16,6 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zezocas0&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
 
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/sousadev?label=Follow)](https://twitter.com/sousadev)-->
+
 ![Profile views](https://gpvc.arturio.dev/zezocas0)
 
