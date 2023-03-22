@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/zezocas0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zezocas0&count_private=true&theme=tokyonight&show_icons=true&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zezocas0&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 </a>
 
 
