@@ -13,8 +13,12 @@
 
 
 <a href="https://github.com/zezocas0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zezocas0&count_private=true&theme=tokyonight&show_icons=true" />
+ 
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=zezocas0&show_icons=true&count_private=true)" />
 </a>
+
+
+
 
 
 ![Profile views](https://gpvc.arturio.dev/zezocas0)
