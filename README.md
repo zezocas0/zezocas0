@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**zezocas0/zezocas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# José Santos 
 
-Here are some ideas to get you started:
+### Contact me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/jos%C3%A9-ant%C3%B3nio-filipe-santos-20a01a215/" target="_blank">
+
+
+<img src="https://img.shields.io/badge/Henrique Sousa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+
+
+<a href="https://github.com/zezocas0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zezocas0&count_private=true&theme=tokyonight&show_icons=true" />
+</a>
+
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/sousadev?label=Follow)](https://twitter.com/sousadev)-->
+![Profile views](https://gpvc.arturio.dev/zezocas0)
+
